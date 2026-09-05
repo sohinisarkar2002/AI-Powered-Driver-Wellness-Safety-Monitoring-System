@@ -1,5 +1,9 @@
 # AI-Powered Driver Wellness and Safety Monitoring System
 
+## Academic Context & Collaboration Notice: 
+
+This repository contains a group project developed as part of the BSc in Programming and Data Science degree course at the Indian Institute of Technology (IIT) Madras. It is mirrored here for portfolio and demonstration purposes.
+
 ## Overview
 
 This project is an academic prototype for a video-based **Driver Wellness and Safety Monitoring System**. The system is designed to monitor driver fatigue, distraction, seat belt usage, phone usage, smoking, drinking, head movement, gaze behavior, and other unsafe driving indicators.
