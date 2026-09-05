@@ -1,6 +1,6 @@
 # AI-Powered Driver Wellness and Safety Monitoring System
 
-## Academic Context & Collaboration Notice: 
+## Academic Context & Collaboration Notice
 
 This repository contains a group project developed as part of the BSc in Programming and Data Science degree course at the Indian Institute of Technology (IIT) Madras. It is mirrored here for portfolio and demonstration purposes.
 
